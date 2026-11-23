@@ -3,7 +3,6 @@
 
 ## Overview
 This project demonstrates the configuration and testing of a Linux firewall using iptables on Kali Linux.
-
 The objective was to control network traffic by allowing specific services, blocking unauthorized connections, and verifying firewall behavior through practical testing.
 
 ## Tools and Technologies
